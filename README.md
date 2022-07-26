@@ -5,6 +5,7 @@ The word to guess is represented by a row of dashes. If the player guess a lette
 
 <br />
 <img src="https://i.imgur.com/d6Dwohk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <h2>Languages and Utilities Used</h2>
 <br />
 - <b>Python</b> 
